@@ -1,0 +1,43 @@
+
+/* This is how to write a CSS comment */
+
+body{
+	background-color:grey;
+	color:White;
+	font-family: 'Oswald';
+	}
+
+
+h1{
+	Color:White;
+	font-size:50px;
+	}
+
+p {
+	Color:white;
+	font-size:20pt;
+	font-family: 'arial', sans-serif;
+	}
+
+h2{
+	Color:white;
+	Font-size:12 pt;
+	}
+
+ol{
+	Font-size: 20pt;
+	font-family: 'arial', sans-serif;	
+	}
+
+a{
+	font-size: 30px;
+	color: blue;
+	text-decoration:none;
+}
+
+a:hover{color: yellow;}
+
+.testgraph{
+	color: white;
+	font-size: 30px;
+}
