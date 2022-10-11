@@ -1,0 +1,30 @@
+.headerBar {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+
+.bodycopy{
+	background-color: #666666;	
+	color: #ffffff;
+}
+
+.sidebar{
+	background-color: #f4f4f4;
+
+}
+
+.tablestyle{
+	border:  solid 1px #000000;
+}
+
+
+.footerbar{
+	background-color: #333;
+	color: #ffffff;
+}
+
+
+.menucolor{
+	color: #ffffff;
+}
