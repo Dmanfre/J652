@@ -1,0 +1,17 @@
+p{
+	color:black;
+	font-family: 'ariel', sans-serif;
+	font-size: 12pt;
+	}
+
+h1{
+	font-family: 'impact', sans-serif;
+}
+
+a{
+	
+	color: green;
+	text-decoration:none;
+}
+
+a:hover{color: white;}
