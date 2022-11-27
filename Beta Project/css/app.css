@@ -1,0 +1,39 @@
+
+/*style for the top header bar... should show a black
+rectangle taking up the width of the page.*/
+.mainHeader {
+	background-color:#000000;
+  padding: 20px 0 20px 0;
+  margin-bottom: 20px;
+}
+
+
+/*style for my headline*/
+h1{
+  color: #fff;
+  font-family: 'Lora', sans-serif;
+}
+
+/*style of for the sidebar*/
+.sidebar {
+    background-color:lightblue;
+  padding: 20px;
+}
+
+
+h4{
+    color:red;
+}
+
+h3{
+    color:red;
+}
+
+/*this is the CSS for the font size of the caption*/
+.caption{
+    font-size: 10pt;
+}
+
+.primarycallout{
+    font-size: 20pt;
+}
